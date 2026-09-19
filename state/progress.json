@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "learner_id": "manuel",
+  "course": "nema-problema-band-1",
+  "status": "test_initialized",
+  "current_focus": {
+    "lesson": null,
+    "topics": []
+  },
+  "mastery": {},
+  "review_queue": [],
+  "last_session": null,
+  "next_session": {
+    "goal": "Establish a real baseline and begin the first learning unit.",
+    "instructions": [
+      "Do not assume prior mastery.",
+      "Ask a few short baseline questions.",
+      "Start the first appropriate course material.",
+      "Require active Croatian production.",
+      "Persist results as an event and update this snapshot."
+    ]
+  },
+  "event_count": 1
+}
