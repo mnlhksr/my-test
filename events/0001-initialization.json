@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "event_id": "0001-initialization",
+  "type": "system_initialization",
+  "source": "chatgpt-github-write-test",
+  "summary": "Initialized the portable Croatian tutor learning-state repository.",
+  "learning_attempts": [],
+  "state_changes": [
+    "Created learner profile",
+    "Created tutor contract",
+    "Created initial progress snapshot"
+  ],
+  "note": "This is not evidence of Croatian mastery and must not be treated as a completed lesson."
+}
